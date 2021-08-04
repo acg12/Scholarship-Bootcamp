@@ -1,0 +1,9 @@
+Decision tree
+- model yg bakal generate decision tree and split yes / no questions berdasarkan featuresnya dan weightnya
+
+Gradient Boosting algorithm tree
+- dia kek generate model tree terus terusan sampe yg terakhir kyk yg paling baik
+- dia generate decision stump (kyk handle 1 feature trs cari weight terbaik utk feature itu) -> dikatakan weight learner
+
+Random forest
+- generate random model sampe yg paling pas(?)
